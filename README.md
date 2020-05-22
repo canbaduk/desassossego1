@@ -18,7 +18,7 @@
 | 8 | Fernando Gonçalves | Ribeiro Leandro | 0 |  |
 | 9 | **Ferreira João** | Pimenta Vasco | 0 | [link](https://gokibitz.com/kifu/SJhjIOEo8) |
 |10 | Jacobs Nick | Nakashima Rafaela | 0 | |
-|11 | Flores Mariano | Vieira João | 0 | |
+|11 | Flores Mariano | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/SJVd5lBoL) |
 |12 | Maza Felipe | Peterlevitz Henrique| 0 | |
 |13 | da Veiga Miyagi | Goday Víctor| 0 | |
 |14 | Gonzalez Alejandro | Martinez Lito| 0 | |
