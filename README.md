@@ -9,7 +9,7 @@
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
 | 1 | Gonçalves Simão | da Silva Thiago | 0 | |
-| 2 | Carmona Pedro | Gonçalves Jr Edivan | 0 |  |
+| 2 | Carmona Pedro | **Gonçalves Jr Edivan** | 0 | [link](https://gokibitz.com/kifu/rJwQg5ViI) |
 | 3 | Cruz Aaron | Rodriguez Gregori Rafa | 0 |  |
 | 4 | **Neto Cristóvão** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/SySu1nboL) |
 | 5 | Pereira Pedro | Fernandez José | 0 |  |
