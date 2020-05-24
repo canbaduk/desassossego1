@@ -23,5 +23,5 @@
 |13 | da Veiga Miyagi | Goday Víctor| 0 | |
 |14 | Gonzalez Alejandro | Martinez Lito| 0 | |
 |15 | **Pereira Silvério** | Bruno Silva| 0 | [link](https://gokibitz.com/kifu/SyPUjnSjI) |
-|16 | Maltez Nuno | Silva Lucas| 2 | |
+|16 | Maltez Nuno | **Silva Lucas** | 2 | [link](http://gokibitz.com/kifu/Byn0Yn8s8) |
 |17 | **Mota Paulo** | Couto Charles| 0 | [link](https://gokibitz.com/kifu/BJP-1dHi8) |
