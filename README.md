@@ -22,6 +22,6 @@
 |12 | Maza Felipe | Peterlevitz Henrique| 0 | |
 |13 | da Veiga Miyagi | Goday Víctor| 0 | |
 |14 | Gonzalez Alejandro | Martinez Lito| 0 | |
-|15 | Pereira Silvério | Bruno Silva| 0 | |
+|15 | **Pereira Silvério** | Bruno Silva| 0 | [link](https://gokibitz.com/kifu/SyPUjnSjI) |
 |16 | Maltez Nuno | Silva Lucas| 2 | |
 |17 | **Mota Paulo** | Couto Charles| 0 | [link](https://gokibitz.com/kifu/BJP-1dHi8) |
