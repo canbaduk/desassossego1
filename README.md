@@ -24,4 +24,4 @@
 |14 | Gonzalez Alejandro | Martinez Lito| 0 | |
 |15 | Pereira Silvério | Bruno Silva| 0 | |
 |16 | Maltez Nuno | Silva Lucas| 2 | |
-|17 | Mota Paulo | Couto Charles| 0 | |
+|17 | **Mota Paulo** | Couto Charles| 0 | [link](https://gokibitz.com/kifu/BJP-1dHi8) |
