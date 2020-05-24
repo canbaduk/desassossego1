@@ -13,7 +13,7 @@
 | 3 | Cruz Aaron | Rodriguez Gregori Rafa | 0 |  |
 | 4 | **Neto Cristóvão** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/SySu1nboL) |
 | 5 | Pereira Pedro | Fernandez José | 0 |  |
-| 6 | Pereira Francisco | Pereira Laercio | 0 |  |
+| 6 | Pereira Francisco | **Pereira Laercio** | 0 | [link](https://gokibitz.com/kifu/ByGtQXDi8) |
 | 7 | Menéndez Engra Alejand | **Malhado Rui** | 0 | [link](https://gokibitz.com/kifu/ryjgusZi8) |
 | 8 | Fernando Gonçalves | Ribeiro Leandro | 0 |  |
 | 9 | **Ferreira João** | Pimenta Vasco | 0 | [link](https://gokibitz.com/kifu/SJhjIOEo8) |
