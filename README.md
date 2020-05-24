@@ -17,7 +17,7 @@
 | 7 | Menéndez Engra Alejand | **Malhado Rui** | 0 | [link](https://gokibitz.com/kifu/ryjgusZi8) |
 | 8 | Fernando Gonçalves | Ribeiro Leandro | 0 |  |
 | 9 | **Ferreira João** | Pimenta Vasco | 0 | [link](https://gokibitz.com/kifu/SJhjIOEo8) |
-|10 | Jacobs Nick | Nakashima Rafaela | 0 | |
+|10 | **Jacobs Nick** | Nakashima Rafaela | 0 | [link](https://gokibitz.com/kifu/ryg_e2BoU) |
 |11 | Flores Mariano | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/SJVd5lBoL) |
 |12 | Maza Felipe | Peterlevitz Henrique| 0 | |
 |13 | da Veiga Miyagi | Goday Víctor| 0 | |
