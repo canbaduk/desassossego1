@@ -19,7 +19,7 @@
 | 9 | **Ferreira João** | Pimenta Vasco | 0 | [link](https://gokibitz.com/kifu/SJhjIOEo8) |
 |10 | **Jacobs Nick** | Nakashima Rafaela | 0 | [link](https://gokibitz.com/kifu/ryg_e2BoU) |
 |11 | Flores Mariano | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/SJVd5lBoL) |
-|12 | Maza Felipe | Peterlevitz Henrique| 0 | |
+|12 | Maza Felipe | **Peterlevitz Henrique** | 0 | [link](https://gokibitz.com/kifu/S1TrtpLsL) |
 |13 | da Veiga Miyagi | Goday Víctor| 0 | |
 |14 | Gonzalez Alejandro | Martinez Lito| 0 | |
 |15 | **Pereira Silvério** | Bruno Silva| 0 | [link](https://gokibitz.com/kifu/SyPUjnSjI) |
