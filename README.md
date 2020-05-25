@@ -21,7 +21,7 @@
 |11 | Flores Mariano | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/SJVd5lBoL) |
 |12 | Maza Felipe | **Peterlevitz Henrique** | 0 | [link](https://gokibitz.com/kifu/S1TrtpLsL) |
 |13 | da Veiga Miyagi | Goday Víctor| 0 | |
-|14 | Gonzalez Alejandro | Martinez Lito| 0 | |
+|14 | Gonzalez Alejandro | **Martinez Lito** | 0 | [link](https://gokibitz.com/kifu/BJOS3CwoL) |
 |15 | **Pereira Silvério** | Bruno Silva| 0 | [link](https://gokibitz.com/kifu/SyPUjnSjI) |
 |16 | Maltez Nuno | **Silva Lucas** | 2 | [link](http://gokibitz.com/kifu/Byn0Yn8s8) |
 |17 | **Mota Paulo** | Couto Charles| 0 | [link](https://gokibitz.com/kifu/BJP-1dHi8) |
