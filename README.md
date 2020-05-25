@@ -12,7 +12,7 @@
 | 2 | Carmona Pedro | **Gonçalves Jr Edivan** | 0 | [link](https://gokibitz.com/kifu/rJwQg5ViI) |
 | 3 | Cruz Aaron | Rodriguez Gregori Rafa | 0 |  |
 | 4 | **Neto Cristóvão** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/SySu1nboL) |
-| 5 | Pereira Pedro | Fernandez José | 0 |  |
+| 5 | **Pereira Pedro** | Fernandez José | 0 | [link](https://gokibitz.com/kifu/S1QMg8_iU) |
 | 6 | Pereira Francisco | **Pereira Laercio** | 0 | [link](https://gokibitz.com/kifu/ByGtQXDi8) |
 | 7 | Menéndez Engra Alejand | **Malhado Rui** | 0 | [link](https://gokibitz.com/kifu/ryjgusZi8) |
 | 8 | Fernando Gonçalves | Ribeiro Leandro | 0 |  |
