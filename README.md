@@ -10,7 +10,7 @@
 | ----- | ----- | ----- | -- | ---- |
 | 1 | **Gonçalves Simão** | da Silva Thiago | 0 | [link](https://gokibitz.com/kifu/HkHmTA_iL) |
 | 2 | Carmona Pedro | **Gonçalves Jr Edivan** | 0 | [link](https://gokibitz.com/kifu/rJwQg5ViI) |
-| 3 | Cruz Aaron | Rodriguez Gregori Rafa | 0 |  |
+| 3 | Cruz Aaron | **Rodriguez Gregori Rafa** | 0 | [link](https://gokibitz.com/kifu/BJ1exdFjU) |
 | 4 | **Neto Cristóvão** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/SySu1nboL) |
 | 5 | **Pereira Pedro** | Fernandez José | 0 | [link](https://gokibitz.com/kifu/S1QMg8_iU) |
 | 6 | Pereira Francisco | **Pereira Laercio** | 0 | [link](https://gokibitz.com/kifu/ByGtQXDi8) |
