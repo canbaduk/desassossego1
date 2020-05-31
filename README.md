@@ -15,7 +15,7 @@
 | 5 | **Pereira Pedro** | Fernandez José | 0 | [link](https://gokibitz.com/kifu/S1QMg8_iU) |
 | 6 | Pereira Francisco | **Pereira Laercio** | 0 | [link](https://gokibitz.com/kifu/ByGtQXDi8) |
 | 7 | Menéndez Engra Alejand | **Malhado Rui** | 0 | [link](https://gokibitz.com/kifu/ryjgusZi8) |
-| 8 | Fernando Gonçalves | Ribeiro Leandro | 0 |  |
+| 8 | **Fernando Gonçalves** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/rkp4i0k3U) |
 | 9 | **Ferreira João** | Pimenta Vasco | 0 | [link](https://gokibitz.com/kifu/SJhjIOEo8) |
 |10 | **Jacobs Nick** | Nakashima Rafaela | 0 | [link](https://gokibitz.com/kifu/ryg_e2BoU) |
 |11 | Flores Mariano | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/SJVd5lBoL) |
