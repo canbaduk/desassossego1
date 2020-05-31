@@ -25,3 +25,24 @@
 |15 | **Pereira Silvério** | Bruno Silva| 0 | [link](https://gokibitz.com/kifu/SyPUjnSjI) |
 |16 | Maltez Nuno | **Silva Lucas** | 2 | [link](http://gokibitz.com/kifu/Byn0Yn8s8) |
 |17 | **Mota Paulo** | Couto Charles| 0 | [link](https://gokibitz.com/kifu/BJP-1dHi8) |
+
+## Round 2
+| Table | White | Black | Hd | Game |
+| ----- | ----- | ----- | -- | ---- |
+| 1 | Rodriguez Gregori Rafa | Gonçalves Simão | 0 | |
+| 2 | Gonçalves Jr Edivan  | Pereira Pedro | 0 | |
+| 3 | Pereira Laercio | Neto Cristóvão | 0 | |
+| 4 | da Silva Thiago | Pereira Francisco | 0 | |
+| 5 | Fraembs Sascha | Cruz Aaron | 0 | |
+| 6 | Carmona Pedro | Menéndez Engra Alejandro | 0 | |
+| 7 | Ribeiro Leandro | Fernandez José | 0 | |
+| 8 | Malhado Rui | Fernando Gonçalves | 0 | |
+| 9 | Ferreira João | Jacobs Nick | 0 | |
+|10 | Pimenta Vasco | Vieira João | 0 | |
+|11 | Peterlevitz Henrique | Flores Mariano | 0 | |
+|12 | Martinez Lito | Maza Felipe | 0 | |
+|13 | Nakashima Rafaela | da Veiga Miyagi | 0 | |
+|14 | Bruno Silva | Gonzalez Alejandro | 0 | |
+|15 | Goday Víctor | Pereira Silvério | 0 | |
+|16 | Fonte Luis | Maltez Nuno | 0 | |
+|17 | Silva Lucas | Mota Paulo | 0 | |
