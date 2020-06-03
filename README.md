@@ -37,7 +37,7 @@
 | 6 | Carmona Pedro | Menéndez Engra Alejandro | 0 | |
 | 7 | Ribeiro Leandro | Fernandez José | 0 | |
 | 8 | Malhado Rui | Fernando Gonçalves | 0 | |
-| 9 | Ferreira João | Jacobs Nick | 0 | |
+| 9 | Ferreira João | **Jacobs Nick** | 0 | [link](https://gokibitz.com/kifu/BJrArNE28) |
 |10 | Pimenta Vasco | Vieira João | 0 | |
 |11 | Peterlevitz Henrique | Flores Mariano | 0 | |
 |12 | Martinez Lito | Maza Felipe | 0 | |
