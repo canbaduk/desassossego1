@@ -36,7 +36,7 @@
 | Pereira Pedro |  |  |  | |
 | Pereira Silvério |  |  |  | |
 | Peterlevitz Henrique |  |  |  | |
-| Pimenta Vasco |  |  |  | |
+| Pimenta Vasco | pimenta | pimenta | pimenta | @vascopimenta |
 | Ribeiro Leandro |  |  |  | |
 | Rodriguez Gregori Rafael |  |  |  | |
 | Silva Lucas |  |  |  | |
