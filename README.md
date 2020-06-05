@@ -12,7 +12,7 @@
 | Couto Charles |  |  |  | |
 | Cruz Aaron |  |  |  | |
 | da Silva Thiago |  |  |  | |
-| da Veiga Miyagi |  |  |  | |
+| d | daveiga | daveiga | copelius | |
 | Fernandez José |  |  |  | |
 | Fernando Gonçalves |  |  |  | |
 | Ferreira João | joaoluc | joaoluc | joaoluc | @joaoluc |
