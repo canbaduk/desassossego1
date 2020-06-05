@@ -23,7 +23,7 @@
 | Gonçalves Simão |  |  |  | |
 | Gonzalez Alejandro |  |  | | |
 | Jacobs Nick |  |  |  | |
-| Malhado Rui |  |  |  | |
+| Malhado Rui | phelan | phelan | phelan | @phelanpt |
 | Maltez Nuno |  |  |  | |
 | Martinez Lito |  |  |  | |
 | Maza Felipe | felipem | felipem | felipem |
