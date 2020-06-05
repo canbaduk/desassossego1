@@ -13,7 +13,7 @@
 | Cruz Aaron |  |  |  | |
 | da Silva Thiago |  |  |  | |
 | da Veiga Miyagi | daveiga | daveiga | copelius | |
-| Fernandez José |  |  |  | |
+| Fernandez José | coltra9 |  | coltra9 | |
 | Fernando Gonçalves |  |  |  | |
 | Ferreira João | joaoluc | joaoluc | joaoluc | @joaoluc |
 | Flores Mariano |  |  |  | |
