@@ -39,7 +39,7 @@
 | 8 | Malhado Rui | Fernando Gonçalves | 0 | |
 | 9 | Ferreira João | **Jacobs Nick** | 0 | [link](https://gokibitz.com/kifu/BJrArNE28) |
 |10 | Pimenta Vasco | Vieira João | 0 | |
-|11 | Peterlevitz Henrique | Flores Mariano | 0 | |
+|11 | Peterlevitz Henrique | **Flores Mariano** | 0 | [link](https://gokibitz.com/kifu/BJesm6LnU) |
 |12 | Martinez Lito | Maza Felipe | 0 | |
 |13 | Nakashima Rafaela | **da Veiga Miyagi** | 0 | [link](https://gokibitz.com/kifu/rJX9whL3L) |
 |14 | Bruno Silva | Gonzalez Alejandro | 0 | |
