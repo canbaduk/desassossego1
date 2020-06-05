@@ -18,7 +18,7 @@
 | Ferreira João | joaoluc | joaoluc | joaoluc | @joaoluc |
 | Flores Mariano |  |  |  | |
 | Fraembs Sascha |  |  |  | |
-| Goday Víctor |  |  |  | |
+| Goday Víctor | torvic |  | devik | @victor_jose |
 | Gonçalves Jr Edivan |  |  | |  |
 | Gonçalves Simão |  |  |  | |
 | Gonzalez Alejandro |  |  | | |
