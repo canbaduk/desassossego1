@@ -15,7 +15,7 @@
 | da Veiga Miyagi |  |  |  | |
 | Fernandez José |  |  |  | |
 | Fernando Gonçalves |  |  |  | |
-| Ferreira João | | | | |
+| Ferreira João | joaoluc | joaoluc | joaoluc | @joaoluc |
 | Flores Mariano |  |  |  | |
 | Fraembs Sascha |  |  |  | |
 | Goday Víctor |  |  |  | |
