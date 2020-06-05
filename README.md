@@ -4,6 +4,49 @@
 
 [URL](http://www.go-portugal.org/artigo/1519)
 
+## Players
+| Name | Igs | Kgs | Ogs |
+| ---- | --- | --- | --- |
+| Bruno Silva |  |  |  |
+| Carmona Pedro |  |  |  |
+| Couto Charles |  |  |  |
+| Cruz Aaron |  |  |  |
+| da Silva Thiago |  |  |  |
+| da Veiga Miyagi |  |  |  |
+| Fernandez José |  |  |  |
+| Fernando Gonçalves |  |  |  |
+| Ferreira João |  |  |  |
+| Flores Mariano |  |  |  |
+| Fraembs Sascha |  |  |  |
+| Goday Víctor |  |  |  |
+| Gonçalves Jr Edivan |  |  |  |
+| Gonçalves Simão |  |  |  |
+| Gonzalez Alejandro |  |  |  |
+| Jacobs Nick |  |  |  |
+| Malhado Rui |  |  |  |
+| Maltez Nuno |  |  |  |
+| Martinez Lito |  |  |  |
+| Maza Felipe |  |  |  |
+| Menéndez Engra Alejandro |  |  |  |
+| Mota Paulo |  |  |  |
+| Nakashima Rafaela |  |  |  |
+| Neto Cristóvão |  |  |  |
+| Pereira Francisco |  |  |  |
+| Pereira Laercio |  |  |  |
+| Pereira Pedro |  |  |  |
+| Pereira Silvério |  |  |  |
+| Peterlevitz Henrique |  |  |  |
+| Pimenta Vasco |  |  |  |
+| Ribeiro Leandro |  |  |  |
+| Rodriguez Gregori Rafael |  |  |  |
+| Silva Lucas |  |  |  |
+| Vieira João |  |  |  |
+
+
+
+
+
+
 ## Round 1
 
 | Table | White | Black | Hd | Game |
