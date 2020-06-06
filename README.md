@@ -24,7 +24,7 @@
 | Gonzalez Alejandro | t507 | t407 | | @u683j |
 | Jacobs Nick |  |  |  | |
 | Malhado Rui | phelan | phelan | phelan | @phelanpt |
-| Maltez Nuno |  |  |  | |
+| Maltez Nuno | nham | nham | nham | @nunomaltez |
 | Martinez Lito |  |  |  | |
 | Maza Felipe | felipem | felipem | felipem | @gogoigo ||
 | Menéndez Engra Alejandro |  |  |  | |
