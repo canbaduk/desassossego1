@@ -21,7 +21,7 @@
 | Goday Víctor | torvic |  | devik | @victor_jose |
 | Gonçalves Jr Edivan |  |  | |  |
 | Gonçalves Simão |  |  |  | |
-| Gonzalez Alejandro |  |  | | |
+| Gonzalez Alejandro | t507 | t407 | | @u683j |
 | Jacobs Nick |  |  |  | |
 | Malhado Rui | phelan | phelan | phelan | @phelanpt |
 | Maltez Nuno |  |  |  | |
