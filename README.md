@@ -15,7 +15,7 @@
 | da Veiga Miyagi | daveiga | daveiga | copelius | |
 | Fernandez José | coltra9 |  | coltra9 | |
 | Fernando Gonçalves |  |  |  | |
-| Ferreira João | joaoluc | joaoluc | joaoluc | @joaoluc |
+| Ferreira João |  |  |  | |
 | Flores Mariano |  |  |  | |
 | Fraembs Sascha |  |  |  | |
 | Goday Víctor | torvic |  | devik | @victor_jose |
@@ -40,7 +40,7 @@
 | Ribeiro Leandro |  |  |  | |
 | Rodriguez Gregori Rafael |  |  |  | |
 | Silva Lucas |  |  |  | |
-| Vieira João |  |  |  | |
+| Vieira João | joaoluc | joaoluc | joaoluc | @joaoluc |
 
 
 
