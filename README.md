@@ -25,7 +25,7 @@
 | Jacobs Nick |  |  |  | |
 | Malhado Rui | phelan | phelan | phelan | @phelanpt |
 | Maltez Nuno | nham | nham | nham | @nunomaltez |
-| Martinez Lito |  |  |  | |
+| Martinez Lito | litogo |  | litogo | |
 | Maza Felipe | felipem | felipem | felipem | @gogoigo ||
 | Menéndez Engra Alejandro |  |  |  | |
 | Mota Paulo |  |  |  | |
