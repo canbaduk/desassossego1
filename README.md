@@ -88,4 +88,4 @@
 |14 | Bruno Silva | Gonzalez Alejandro | 0 | |
 |15 | Goday Víctor | Pereira Silvério | 0 | |
 |16 | Fonte Luis | Maltez Nuno | 0 | |
-|17 | Silva Lucas | Mota Paulo | 0 | |
+|17 | Silva Lucas | **Mota Paulo** | 0 | [link](https://gokibitz.com/kifu/H16_PNYhI) |
