@@ -12,7 +12,7 @@
 | Couto Charles |  |  |  | |
 | Cruz Aaron |  |  |  | |
 | da Silva Thiago |  |  |  | |
-| da Veiga Miyagi | daveiga | daveiga | copelius | |
+| da Veiga Miyagi | daveiga | copelius | copelius | |
 | Fernandez José | coltra9 |  | coltra9 | |
 | Fernando Gonçalves |  |  |  | |
 | Ferreira João | gopopz | popz | popz | @popzbadz |
