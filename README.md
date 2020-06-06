@@ -20,7 +20,7 @@
 | Fraembs Sascha | sasaf70 | sasaf70 | sasaf70 | @sasaf70 |
 | Goday Víctor | torvic |  | devik | @victor_jose |
 | Gonçalves Jr Edivan |  |  | |  |
-| Gonçalves Simão |  |  |  | |
+| Gonçalves Simão | simas |  | TsukeShinogi | |
 | Gonzalez Alejandro | t507 | t407 | | @u683j |
 | Jacobs Nick |  |  |  | |
 | Malhado Rui | phelan | phelan | phelan | @phelanpt |
