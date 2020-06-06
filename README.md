@@ -29,7 +29,7 @@
 | Maza Felipe | felipem | felipem | felipem |
 | Menéndez Engra Alejandro |  |  |  | |
 | Mota Paulo |  |  |  | |
-| Nakashima Rafaela |  |  |  | |
+| Nakashima Rafaela |  | rnak | rnak | @rafanak |
 | Neto Cristóvão |  |  |  | |
 | Pereira Francisco |  |  |  | |
 | Pereira Laercio |  |  |  | |
