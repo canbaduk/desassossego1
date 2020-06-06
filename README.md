@@ -26,7 +26,7 @@
 | Malhado Rui | phelan | phelan | phelan | @phelanpt |
 | Maltez Nuno |  |  |  | |
 | Martinez Lito |  |  |  | |
-| Maza Felipe | felipem | felipem | felipem |
+| Maza Felipe | felipem | felipem | felipem | @gogoigo ||
 | Menéndez Engra Alejandro |  |  |  | |
 | Mota Paulo |  |  |  | |
 | Nakashima Rafaela |  | rnak | rnak | @rafanak |
