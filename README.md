@@ -86,6 +86,6 @@
 |12 | Martinez Lito | **Maza Felipe** | 0 | [link](https://gokibitz.com/kifu/HysqEtt3U) |
 |13 | Nakashima Rafaela | **da Veiga Miyagi** | 0 | [link](https://gokibitz.com/kifu/rJX9whL3L) |
 |14 | Bruno Silva | Gonzalez Alejandro | 0 | |
-|15 | Goday Víctor | Pereira Silvério | 0 | |
+|15 | **Goday Víctor** | Pereira Silvério | 0 | [link](https://gokibitz.com/kifu/B1714l2hU) |
 |16 | Fonte Luis | Maltez Nuno | 0 | |
 |17 | Silva Lucas | **Mota Paulo** | 0 | [link](https://gokibitz.com/kifu/H16_PNYhI) |
