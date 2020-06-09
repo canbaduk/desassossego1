@@ -72,7 +72,7 @@
 ## Round 2
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
-| 1 | Rodriguez Gregori Rafa | Gonçalves Simão | 0 | |
+| 1 | Rodriguez Gregori Rafa | **Gonçalves Simão** | 0 |  |
 | 2 | Gonçalves Jr Edivan  | Pereira Pedro | 0 | |
 | 3 | Pereira Laercio | Neto Cristóvão | 0 | |
 | 4 | da Silva Thiago | Pereira Francisco | 0 | |
