@@ -79,7 +79,7 @@
 | 5 | Fraembs Sascha | Cruz Aaron | 0 | |
 | 6 | Carmona Pedro | Menéndez Engra Alejandro | 0 | |
 | 7 | Ribeiro Leandro | Fernandez José | 0 | |
-| 8 | Malhado Rui | Fernando Gonçalves | 0 | |
+| 8 | Malhado Rui | **Fernando Gonçalves** | 0 | [link](https://gokibitz.com/kifu/S1LIj7p3U) |
 | 9 | Ferreira João | **Jacobs Nick** | 0 | [link](https://gokibitz.com/kifu/BJrArNE28) |
 |10 | Pimenta Vasco | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/B1W_Vyd2L) |
 |11 | Peterlevitz Henrique | **Flores Mariano** | 0 | [link](https://gokibitz.com/kifu/BJesm6LnU) |
