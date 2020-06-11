@@ -76,7 +76,7 @@
 | 2 | **Gonçalves Jr Edivan**  | Pereira Pedro | 0 | |
 | 3 | Pereira Laercio | Neto Cristóvão | 0 | |
 | 4 | da Silva Thiago | Pereira Francisco | 0 | |
-| 5 | Fraembs Sascha | Cruz Aaron | 0 | |
+| 5 | **Fraembs Sascha** | Cruz Aaron | 0 | [link](https://online-go.com/game/24575049) |
 | 6 | Carmona Pedro | Menéndez Engra Alejandro | 0 | |
 | 7 | Ribeiro Leandro | Fernandez José | 0 | |
 | 8 | Malhado Rui | **Fernando Gonçalves** | 0 | [link](https://gokibitz.com/kifu/S1LIj7p3U) |
