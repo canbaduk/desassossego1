@@ -75,7 +75,7 @@
 | 1 | Rodriguez Gregori Rafa | **Gonçalves Simão** | 0 |  |
 | 2 | **Gonçalves Jr Edivan**  | Pereira Pedro | 0 | |
 | 3 | Pereira Laercio | Neto Cristóvão | 0 | |
-| 4 | da Silva Thiago | Pereira Francisco | 0 | |
+| 4 | **da Silva Thiago** | Pereira Francisco | 0 | [link](http://files.gokgs.com/games/2020/6/9/Hyde-Xikkuh.sgf) |
 | 5 | **Fraembs Sascha** | Cruz Aaron | 0 | [link](https://online-go.com/game/24575049) |
 | 6 | Carmona Pedro | Menéndez Engra Alejandro | 0 | |
 | 7 | Ribeiro Leandro | Fernandez José | 0 | |
