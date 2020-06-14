@@ -89,3 +89,24 @@
 |15 | **Goday Víctor** | Pereira Silvério | 0 | [link](https://gokibitz.com/kifu/B1714l2hU) |
 |16 | Fonte Luis | **Maltez Nuno** | 0 | |
 |17 | **Silva Lucas** | Mota Paulo | 0 | [link](https://gokibitz.com/kifu/H16_PNYhI) |
+
+## Round 3
+| Table | White | Black | Hd | Game |
+| ----- | ----- | ----- | -- | ---- |
+| 1 | Gonçalves Jr Edivan | Gonçalves Simão | 0 | |
+| 2 | Neto Cristóvão | Pereira Pedro | 0 | |
+| 3 | da Silva Thiago | Cruz Aaron | 0 | |
+| 4 | Fraembs Sascha | Carmona Pedro | 0 | |
+| 5 | Fernandez José | Pereira Francisco | 0 | |
+| 6 | Menéndez Engra Alejandro | Fernando Gonçalves | 0 | |
+| 7 | Malhado Rui| Jacobs Nick | 0 | |
+| 8 | Vieira João | Ribeiro Leandro | 0 | |
+| 9 | Peterlevitz Henrique | Ferreira João | 0 | |
+|10 | da Veiga Miyagi | Pimenta Vasco  | 0 | |
+|11 | Flores Mariano | Maza Felipe | 0 | |
+|12 | Gonzalez Alejandro | Nakashima Rafaela | 0 | |
+|13 | Martinez Lito | Goday Víctor | 0 | |
+|14 | Bruno Silva | Teixeira João Carlos | 0 | |
+|15 | Maltez Nuno | Pereira Silvério | 0 | |
+|16 | Fonte Luis | Mota Paulo | 0 | |
+|17 | Couto Charles| Silva Lucas | 0 | |
