@@ -77,7 +77,7 @@
 | 3 | Pereira Laercio | Neto Cristóvão | 0 | |
 | 4 | **da Silva Thiago** | Pereira Francisco | 0 | [link](http://files.gokgs.com/games/2020/6/9/Hyde-Xikkuh.sgf) |
 | 5 | **Fraembs Sascha** | Cruz Aaron | 0 | [link](https://online-go.com/game/24575049) |
-| 6 | Carmona Pedro | Menéndez Engra Alejandro | 0 | |
+| 6 | **Carmona Pedro** | Menéndez Engra Alejandro | 0 | [link](https://gokibitz.com/kifu/SJ0eJYGpI) |
 | 7 | Ribeiro Leandro | **Fernandez José** | 0 | [link](https://gokibitz.com/kifu/Byiw71eTL) |
 | 8 | Malhado Rui | **Fernando Gonçalves** | 0 | [link](https://gokibitz.com/kifu/S1LIj7p3U) |
 | 9 | Ferreira João | **Jacobs Nick** | 0 | [link](https://gokibitz.com/kifu/BJrArNE28) |
