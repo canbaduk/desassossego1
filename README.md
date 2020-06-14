@@ -72,9 +72,9 @@
 ## Round 2
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
-| 1 | Rodriguez Gregori Rafa | **Gonçalves Simão** | 0 |  |
+| 1 | Rodriguez Gregori Rafa | **Gonçalves Simão** | 0 | |
 | 2 | **Gonçalves Jr Edivan**  | Pereira Pedro | 0 | [link](https://gokibitz.com/kifu/H1vA0ixTL) |
-| 3 | Pereira Laercio | Neto Cristóvão | 0 | |
+| 3 | Pereira Laercio | **Neto Cristóvão** | 0 | |
 | 4 | **da Silva Thiago** | Pereira Francisco | 0 | [link](http://files.gokgs.com/games/2020/6/9/Hyde-Xikkuh.sgf) |
 | 5 | **Fraembs Sascha** | Cruz Aaron | 0 | [link](https://online-go.com/game/24575049) |
 | 6 | **Carmona Pedro** | Menéndez Engra Alejandro | 0 | [link](https://gokibitz.com/kifu/SJ0eJYGpI) |
@@ -87,5 +87,5 @@
 |13 | Nakashima Rafaela | **da Veiga Miyagi** | 0 | [link](https://gokibitz.com/kifu/rJX9whL3L) |
 |14 | **Bruno Silva** | Gonzalez Alejandro | 0 | [link](https://gokibitz.com/kifu/rk3c0O-TL) |
 |15 | **Goday Víctor** | Pereira Silvério | 0 | [link](https://gokibitz.com/kifu/B1714l2hU) |
-|16 | Fonte Luis | Maltez Nuno | 0 | |
+|16 | Fonte Luis | **Maltez Nuno** | 0 | |
 |17 | **Silva Lucas** | Mota Paulo | 0 | [link](https://gokibitz.com/kifu/H16_PNYhI) |
