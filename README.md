@@ -93,7 +93,7 @@
 ## Round 3
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
-| 1 | Gonçalves Jr Edivan | Gonçalves Simão | 0 | |
+| 1 | **Gonçalves Jr Edivan** | Gonçalves Simão | 0 | [link](https://gokibitz.com/kifu/rJCKEsU6I) |
 | 2 | Neto Cristóvão | Pereira Pedro | 0 | |
 | 3 | da Silva Thiago | Cruz Aaron | 0 | |
 | 4 | Fraembs Sascha | Carmona Pedro | 0 | |
