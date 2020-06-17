@@ -106,7 +106,7 @@
 |11 | Flores Mariano | Maza Felipe | 0 | |
 |12 | Gonzalez Alejandro | Nakashima Rafaela | 0 | |
 |13 | Martinez Lito | Goday Víctor | 0 | |
-|14 | Bruno Silva | Teixeira João Carlos | 0 | |
+|14 | Bruno Silva | **Teixeira João Carlos** | 0 | [link](https://gokibitz.com/kifu/HJcVThL6U) |
 |15 | Maltez Nuno | Pereira Silvério | 0 | |
 |16 | Fonte Luis | Mota Paulo | 0 | |
 |17 | Couto Charles| Silva Lucas | 0 | |
