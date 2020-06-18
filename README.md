@@ -100,7 +100,7 @@
 | 5 | Fernandez José | Pereira Francisco | 0 | |
 | 6 | Menéndez Engra Alejandro | Fernando Gonçalves | 0 | |
 | 7 | Malhado Rui| Jacobs Nick | 0 | |
-| 8 | Vieira João | Ribeiro Leandro | 0 | |
+| 8 | **Vieira João** | Ribeiro Leandro | 0 | [link](https://online-go.com/game/24775200) |
 | 9 | **Peterlevitz Henrique** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/SkfjDWBaI) |
 |10 | da Veiga Miyagi | Pimenta Vasco  | 0 | |
 |11 | Flores Mariano | Maza Felipe | 0 | |
