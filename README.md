@@ -109,4 +109,4 @@
 |14 | Bruno Silva | **Teixeira João Carlos** | 0 | [link](https://gokibitz.com/kifu/HJcVThL6U) |
 |15 | Maltez Nuno | Pereira Silvério | 0 | |
 |16 | Fonte Luis | Mota Paulo | 0 | |
-|17 | Couto Charles| Silva Lucas | 0 | |
+|17 | Couto Charles| **Silva Lucas** | 0 | [link](https://online-go.com/game/24837199) |
