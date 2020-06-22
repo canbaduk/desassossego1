@@ -98,7 +98,7 @@
 | 3 | da Silva Thiago | Cruz Aaron | 0 | |
 | 4 | Fraembs Sascha | Carmona Pedro | 0 | |
 | 5 | Fernandez José | Pereira Francisco | 0 | |
-| 6 | Menéndez Engra Alejandro | Fernando Gonçalves | 0 | |
+| 6 | **Menéndez Engra Alejandro** | Fernando Gonçalves | 0 | [link](https://gokibitz.com/kifu/HyA2GAipL) |
 | 7 | Malhado Rui| Jacobs Nick | 0 | |
 | 8 | **Vieira João** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/ryXGqc_aI) |
 | 9 | **Peterlevitz Henrique** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/SkfjDWBaI) |
