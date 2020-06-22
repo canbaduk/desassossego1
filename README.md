@@ -103,7 +103,7 @@
 | 8 | **Vieira João** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/ryXGqc_aI) |
 | 9 | **Peterlevitz Henrique** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/SkfjDWBaI) |
 |10 | da Veiga Miyagi | Pimenta Vasco  | 0 | |
-|11 | Flores Mariano | Maza Felipe | 0 | |
+|11 | **Flores Mariano** | Maza Felipe | 0 | [link](https://online-go.com/game/24814874) |
 |12 | Gonzalez Alejandro | Nakashima Rafaela | 0 | |
 |13 | Martinez Lito | Goday Víctor | 0 | |
 |14 | Bruno Silva | **Teixeira João Carlos** | 0 | [link](https://gokibitz.com/kifu/HJcVThL6U) |
