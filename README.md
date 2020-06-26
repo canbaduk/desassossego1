@@ -99,7 +99,7 @@
 | 4 | Fraembs Sascha | Carmona Pedro | 0 | |
 | 5 | Fernandez José | **Pereira Francisco** | 0 | [link](https://gokibitz.com/kifu/rkg2OrpTI) |
 | 6 | **Menéndez Engra Alejandro** | Fernando Gonçalves | 0 | [link](https://gokibitz.com/kifu/HyA2GAipL) |
-| 7 | Malhado Rui| Jacobs Nick | 0 | |
+| 7 | **Malhado Rui** | Jacobs Nick | 0 | [link](https://gokibitz.com/kifu/rk2Aa9ZR8) |
 | 8 | **Vieira João** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/ryXGqc_aI) |
 | 9 | **Peterlevitz Henrique** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/SkfjDWBaI) |
 |10 | da Veiga Miyagi | Pimenta Vasco  | 0 | |
