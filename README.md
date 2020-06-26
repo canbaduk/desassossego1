@@ -102,7 +102,7 @@
 | 7 | **Malhado Rui** | Jacobs Nick | 0 | [link](https://gokibitz.com/kifu/rk2Aa9ZR8) |
 | 8 | **Vieira João** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/ryXGqc_aI) |
 | 9 | **Peterlevitz Henrique** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/SkfjDWBaI) |
-|10 | da Veiga Miyagi | Pimenta Vasco  | 0 | |
+|10 | **da Veiga Miyagi** | Pimenta Vasco  | 0 | [link](https://gokibitz.com/kifu/Sy8JrcfCL) |
 |11 | **Flores Mariano** | Maza Felipe | 0 | [link](https://online-go.com/game/24814874) |
 |12 | Gonzalez Alejandro | **Nakashima Rafaela** | 0 | [link](https://gokibitz.com/kifu/B1OLwAoa8) |
 |13 | **Martinez Lito** | Goday Víctor | 0 | [link](https://gokibitz.com/kifu/B194iah6L) |
