@@ -94,8 +94,8 @@
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
 | 1 | **Gonçalves Jr Edivan** | Gonçalves Simão | 0 | [link](https://gokibitz.com/kifu/rJCKEsU6I) |
-| 2 | Neto Cristóvão | Pereira Pedro | 0 | |
-| 3 | da Silva Thiago | Cruz Aaron | 0 | |
+| 2 | **Neto Cristóvão** | Pereira Pedro | 0 | |
+| 3 | **da Silva Thiago** | Cruz Aaron | 0 | |
 | 4 | **Fraembs Sascha** | Carmona Pedro | 0 | [link](https://gokibitz.com/kifu/S1T4PY4AL) |
 | 5 | Fernandez José | **Pereira Francisco** | 0 | [link](https://gokibitz.com/kifu/rkg2OrpTI) |
 | 6 | **Menéndez Engra Alejandro** | Fernando Gonçalves | 0 | [link](https://gokibitz.com/kifu/HyA2GAipL) |
@@ -108,5 +108,5 @@
 |13 | **Martinez Lito** | Goday Víctor | 0 | [link](https://gokibitz.com/kifu/B194iah6L) |
 |14 | Bruno Silva | **Teixeira João Carlos** | 0 | [link](https://gokibitz.com/kifu/HJcVThL6U) |
 |15 | Maltez Nuno | **Pereira Silvério** | 0 | [link](https://gokibitz.com/kifu/SJUylbhTL) |
-|16 | Fonte Luis | Mota Paulo | 0 | |
+|16 | **Fonte Luis** | Mota Paulo | 0 | |
 |17 | Couto Charles| **Silva Lucas** | 0 | [link](https://online-go.com/game/24837199) |
