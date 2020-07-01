@@ -110,3 +110,24 @@
 |15 | Maltez Nuno | **Pereira Silvério** | 0 | [link](https://gokibitz.com/kifu/SJUylbhTL) |
 |16 | **Fonte Luis** | Mota Paulo | 0 | |
 |17 | Couto Charles| **Silva Lucas** | 0 | [link](https://online-go.com/game/24837199) |
+
+## Round 4
+| Table | White | Black | Hd | Game |
+| ----- | ----- | ----- | -- | ---- |
+| 1 | Neto Cristóvão | Gonçalves Jr Edivan | 0 | |
+| 2 | Gonçalves Simão | Carmona Pedro | 0 | |
+| 3 | da Silva Thiago | Fraembs Sascha | 0 | |
+| 4 | Pereira Laercio | Menéndez Engra Alejandro | 0 | |
+| 5 | Pereira Francisco | Pereira Pedro | 0 | |
+| 6 | Cruz Aaron | Malhado Rui | 0 | |
+| 7 | Fernando Gonçalves | Fernandez José | 0 | |
+| 8 | Jacobs Nick | Ribeiro Leandro | 0 | |
+| 9 | Vieira João | Ferreira João | 0 | |
+|10 | Pimenta Vasco | Flores Mariano | 0 | |
+|11 | da Veiga Miyagi | Peterlevitz Henrique | 0 | |
+|12 | Maza Felipe | Teixeira João Carlos | 0 | |
+|13 | Nakashima Rafaela | Martinez Lito | 0 | |
+|14 | Goday Víctor | Bruno Silva | 0 | |
+|15 | Pereira Silvério | Gonzalez Alejandro | 0 | |
+|16 | Maltez Nuno | Couto Charles| 4 | |
+|17 | Silva Lucas| Fonte Luis | 0 | |
