@@ -119,7 +119,7 @@
 | 3 | da Silva Thiago | Fraembs Sascha | 0 | |
 | 4 | Pereira Laercio | Menéndez Engra Alejandro | 0 | |
 | 5 | Pereira Francisco | Pereira Pedro | 0 | |
-| 6 | Cruz Aaron | Malhado Rui | 0 | |
+| 6 | **Cruz Aaron** | Malhado Rui | 0 | [link](https://gokibitz.com/kifu/rkAkpLR0L) |
 | 7 | Fernando Gonçalves | Fernandez José | 0 | |
 | 8 | Jacobs Nick | Ribeiro Leandro | 0 | |
 | 9 | **Vieira João** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/HJKGqu908) |
