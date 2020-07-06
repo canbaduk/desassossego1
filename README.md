@@ -129,5 +129,5 @@
 |13 | Nakashima Rafaela | Martinez Lito | 0 | |
 |14 | Goday Víctor | Bruno Silva | 0 | |
 |15 | Pereira Silvério | Gonzalez Alejandro | 0 | |
-|16 | Maltez Nuno | Couto Charles| 4 | |
+|16 | **Maltez Nuno** | Couto Charles| 4 | [link](https://gokibitz.com/kifu/HypEfQRRU) |
 |17 | Silva Lucas| Fonte Luis | 0 | |
