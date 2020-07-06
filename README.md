@@ -130,4 +130,4 @@
 |14 | Goday Víctor | Bruno Silva | 0 | |
 |15 | Pereira Silvério | Gonzalez Alejandro | 0 | |
 |16 | **Maltez Nuno** | Couto Charles| 4 | [link](https://gokibitz.com/kifu/HypEfQRRU) |
-|17 | Silva Lucas| Fonte Luis | 0 | |
+|17 | **Silva Lucas** | Fonte Luis | 0 | [link](https://gokibitz.com/kifu/HJOhl5ykP) |
