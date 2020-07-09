@@ -125,7 +125,7 @@
 | 9 | **Vieira João** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/HJKGqu908) |
 |10 | Pimenta Vasco | Flores Mariano | 0 | |
 |11 | da Veiga Miyagi | Peterlevitz Henrique | 0 | |
-|12 | Maza Felipe | Teixeira João Carlos | 0 | |
+|12 | **Maza Felipe** | Teixeira João Carlos | 0 | [link](https://gokibitz.com/kifu/H1cGq-Gyw) |
 |13 | Nakashima Rafaela | Martinez Lito | 0 | |
 |14 | Goday Víctor | Bruno Silva | 0 | |
 |15 | Pereira Silvério | Gonzalez Alejandro | 0 | |
