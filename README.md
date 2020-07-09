@@ -123,7 +123,7 @@
 | 7 | Fernando Gonçalves | Fernandez José | 0 | |
 | 8 | **Jacobs Nick** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/HJoD2cJkw) |
 | 9 | **Vieira João** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/HJKGqu908) |
-|10 | Pimenta Vasco | Flores Mariano | 0 | |
+|10 | **Pimenta Vasco** | Flores Mariano | 0 | [link](https://gokibitz.com/kifu/HkcxLnQkw) |
 |11 | da Veiga Miyagi | Peterlevitz Henrique | 0 | |
 |12 | **Maza Felipe** | Teixeira João Carlos | 0 | [link](https://gokibitz.com/kifu/H1cGq-Gyw) |
 |13 | Nakashima Rafaela | Martinez Lito | 0 | |
