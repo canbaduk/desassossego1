@@ -118,7 +118,7 @@
 | 2 | Gonçalves Simão | Carmona Pedro | 0 | |
 | 3 | da Silva Thiago | **Fraembs Sascha** | 0 | [link](https://gokibitz.com/kifu/rk-_jPfkP) |
 | 4 | Pereira Laercio | Menéndez Engra Alejandro | 0 | |
-| 5 | Pereira Francisco | Pereira Pedro | 0 | |
+| 5 | **Pereira Francisco** | Pereira Pedro | 0 | [link](https://gokibitz.com/kifu/HkM4TZS1v) |
 | 6 | **Cruz Aaron** | Malhado Rui | 0 | [link](https://gokibitz.com/kifu/rkAkpLR0L) |
 | 7 | Fernando Gonçalves | Fernandez José | 0 | |
 | 8 | **Jacobs Nick** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/HJoD2cJkw) |
