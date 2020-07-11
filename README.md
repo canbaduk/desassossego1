@@ -128,6 +128,6 @@
 |12 | **Maza Felipe** | Teixeira João Carlos | 0 | [link](https://gokibitz.com/kifu/H1cGq-Gyw) |
 |13 | Nakashima Rafaela | **Martinez Lito** | 0 | [link](https://gokibitz.com/kifu/Sk3uw0N1w) |
 |14 | Goday Víctor | Bruno Silva | 0 | |
-|15 | Pereira Silvério | Gonzalez Alejandro | 0 | |
+|15 | **Pereira Silvério** | Gonzalez Alejandro | 0 | [link](https://gokibitz.com/kifu/BkEDxsvJv) |
 |16 | **Maltez Nuno** | Couto Charles| 4 | [link](https://gokibitz.com/kifu/HypEfQRRU) |
 |17 | **Silva Lucas** | Fonte Luis | 0 | [link](https://gokibitz.com/kifu/HJOhl5ykP) |
