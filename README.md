@@ -131,3 +131,24 @@
 |15 | **Pereira Silvério** | Gonzalez Alejandro | 0 | |
 |16 | **Maltez Nuno** | Couto Charles| 4 | [link](https://gokibitz.com/kifu/HypEfQRRU) |
 |17 | **Silva Lucas** | Fonte Luis | 0 | [link](https://gokibitz.com/kifu/HJOhl5ykP) |
+
+## Round 5
+| Table | White | Black | Hd | Game |
+| ----- | ----- | ----- | -- | ---- |
+| 1 | Gonçalves Jr Edivan | Fraembs Sascha | 0 | |
+| 2 | Gonçalves Simão | Neto Cristóvão | 0 | |
+| 3 | Pereira Laercio | da Silva Thiago | 0 | |
+| 4 | Pereira Francisco | Carmona Pedro | 0 | |
+| 5 | Pereira Pedro | Cruz Aaron | 0 | |
+| 6 | Fernandez José | Malhado Rui | 0 | |
+| 7 | Jacobs Nick | Menéndez Engra Alejandro | 0 | |
+| 8 | Fernando Gonçalves | Vieira João | 0 | |
+| 9 | Ribeiro Leandro | da Veiga Miyagi | 0 | |
+|10 | Peterlevitz Henrique | Pimenta Vasco | 0 | |
+|11 | Maza Felipe | Ferreira João | 0 | |
+|12 | Flores Mariano | Martinez Lito | 0 | |
+|13 | Goday Víctor | Nakashima Rafaela | 0 | |
+|14 | Teixeira João Carlos | Gonzalez Alejandro | 0 | |
+|15 | Maltez Nuno | Bruno Silva | 0 | |
+|16 | Pereira Silvério | Silva Lucas | 2 | |
+|17 | Fonte Luis | Couto Charles | 3 | |
