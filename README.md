@@ -117,7 +117,7 @@
 | 1 | Neto Cristóvão | Gonçalves Jr Edivan | 0 | |
 | 2 | Gonçalves Simão | Carmona Pedro | 0 | |
 | 3 | da Silva Thiago | **Fraembs Sascha** | 0 | [link](https://gokibitz.com/kifu/rk-_jPfkP) |
-| 4 | Pereira Laercio | Menéndez Engra Alejandro | 0 | |
+| 4 | Pereira Laercio | Menéndez Engra Alejandro | 0 | [link](https://gokibitz.com/kifu/BkEDxsvJv) |
 | 5 | **Pereira Francisco** | Pereira Pedro | 0 | [link](https://gokibitz.com/kifu/HkM4TZS1v) |
 | 6 | **Cruz Aaron** | Malhado Rui | 0 | [link](https://gokibitz.com/kifu/rkAkpLR0L) |
 | 7 | Fernando Gonçalves | **Fernandez José** | 0 | [link](https://gokibitz.com/kifu/ByrZsDw1v) |
@@ -128,6 +128,6 @@
 |12 | **Maza Felipe** | Teixeira João Carlos | 0 | [link](https://gokibitz.com/kifu/H1cGq-Gyw) |
 |13 | Nakashima Rafaela | **Martinez Lito** | 0 | [link](https://gokibitz.com/kifu/Sk3uw0N1w) |
 |14 | Goday Víctor | Bruno Silva | 0 | |
-|15 | **Pereira Silvério** | Gonzalez Alejandro | 0 | [link](https://gokibitz.com/kifu/BkEDxsvJv) |
+|15 | **Pereira Silvério** | Gonzalez Alejandro | 0 | |
 |16 | **Maltez Nuno** | Couto Charles| 4 | [link](https://gokibitz.com/kifu/HypEfQRRU) |
 |17 | **Silva Lucas** | Fonte Luis | 0 | [link](https://gokibitz.com/kifu/HJOhl5ykP) |
