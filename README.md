@@ -120,7 +120,7 @@
 | 4 | Pereira Laercio | Menéndez Engra Alejandro | 0 | |
 | 5 | **Pereira Francisco** | Pereira Pedro | 0 | [link](https://gokibitz.com/kifu/HkM4TZS1v) |
 | 6 | **Cruz Aaron** | Malhado Rui | 0 | [link](https://gokibitz.com/kifu/rkAkpLR0L) |
-| 7 | Fernando Gonçalves | Fernandez José | 0 | |
+| 7 | Fernando Gonçalves | **Fernandez José** | 0 | [link](https://gokibitz.com/kifu/ByrZsDw1v) |
 | 8 | **Jacobs Nick** | Ribeiro Leandro | 0 | [link](https://gokibitz.com/kifu/HJoD2cJkw) |
 | 9 | **Vieira João** | Ferreira João | 0 | [link](https://gokibitz.com/kifu/HJKGqu908) |
 |10 | **Pimenta Vasco** | Flores Mariano | 0 | [link](https://gokibitz.com/kifu/HkcxLnQkw) |
