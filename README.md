@@ -151,4 +151,4 @@
 |14 | Teixeira João Carlos | Gonzalez Alejandro | 0 | |
 |15 | Maltez Nuno | Bruno Silva | 0 | |
 |16 | Pereira Silvério | Silva Lucas | 2 | |
-|17 | Fonte Luis | Couto Charles | 3 | |
+|17 | Fonte Luis | Couto Charles | 3 | [link](https://online-go.com/game/25403991) |
