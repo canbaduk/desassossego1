@@ -148,7 +148,7 @@
 |11 | Maza Felipe | Ferreira João | 0 | |
 |12 | Flores Mariano | Martinez Lito | 0 | |
 |13 | Goday Víctor | Nakashima Rafaela | 0 | |
-|14 | Teixeira João Carlos | Gonzalez Alejandro | 0 | |
+|14 | Teixeira João Carlos | Gonzalez Alejandro | 0 | [link](https://gokibitz.com/kifu/ryCTYD1lw) |
 |15 | Maltez Nuno | Bruno Silva | 0 | |
 |16 | Pereira Silvério | Silva Lucas | 2 | |
 |17 | Fonte Luis | Couto Charles | 3 | [link](https://online-go.com/game/25403991) |
