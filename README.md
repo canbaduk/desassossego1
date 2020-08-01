@@ -145,7 +145,7 @@
 | 8 | Fernando Gonçalves | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/r1ywrf5kD) |
 | 9 | Ribeiro Leandro | **da Veiga Miyagi** | 0 | [link](https://gokibitz.com/kifu/H12z591ev) |
 |10 | Peterlevitz Henrique | Pimenta Vasco | 0 | |
-|11 | Maza Felipe | Ferreira João | 0 | |
+|11 | Maza Felipe | **Ferreira João** | 0 | [link](https://gokibitz.com/kifu/SJ4ZeJ8lP) |
 |12 | Flores Mariano | Martinez Lito | 0 | |
 |13 | **Goday Víctor** | Nakashima Rafaela | 0 | [link](https://gokibitz.com/kifu/H1J0EJSxD?path=236) |
 |14 | **Teixeira João Carlos** | Gonzalez Alejandro | 0 | [link](https://gokibitz.com/kifu/ryCTYD1lw) |
