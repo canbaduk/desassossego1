@@ -141,7 +141,7 @@
 | 4 | Pereira Francisco | Carmona Pedro | 0 | |
 | 5 | Pereira Pedro | Cruz Aaron | 0 | |
 | 6 | Fernandez José | Malhado Rui | 0 | |
-| 7 | Jacobs Nick | Menéndez Engra Alejandro | 0 | |
+| 7 | **Jacobs Nick** | Menéndez Engra Alejandro | 0 | [link](https://gokibitz.com/kifu/S1VaJNGxw) |
 | 8 | Fernando Gonçalves | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/r1ywrf5kD) |
 | 9 | Ribeiro Leandro | **da Veiga Miyagi** | 0 | [link](https://gokibitz.com/kifu/H12z591ev) |
 |10 | Peterlevitz Henrique | Pimenta Vasco | 0 | |
