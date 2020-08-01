@@ -138,7 +138,7 @@
 | 1 | **Gonçalves Jr Edivan** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/r1J6c2dxw) |
 | 2 | **Gonçalves Simão** | Neto Cristóvão | 0 | [link](https://gokibitz.com/kifu/rJZpFA_lP) |
 | 3 | Pereira Laercio | da Silva Thiago | 0 | |
-| 4 | Pereira Francisco | Carmona Pedro | 0 | |
+| 4 | **Pereira Francisco** | Carmona Pedro | 0 | [link](https://gokibitz.com/kifu/rJZpFA_lP) |
 | 5 | Pereira Pedro | Cruz Aaron | 0 | |
 | 6 | Fernandez José | **Malhado Rui** | 0 | [link](https://gokibitz.com/kifu/BycNbxLxD) |
 | 7 | **Jacobs Nick** | Menéndez Engra Alejandro | 0 | [link](https://gokibitz.com/kifu/S1VaJNGxw) |
