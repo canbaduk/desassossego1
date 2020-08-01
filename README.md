@@ -135,7 +135,7 @@
 ## Round 5
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
-| 1 | Gonçalves Jr Edivan | Fraembs Sascha | 0 | |
+| 1 | **Gonçalves Jr Edivan** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/r1J6c2dxw) |
 | 2 | Gonçalves Simão | Neto Cristóvão | 0 | |
 | 3 | Pereira Laercio | da Silva Thiago | 0 | |
 | 4 | Pereira Francisco | Carmona Pedro | 0 | |
