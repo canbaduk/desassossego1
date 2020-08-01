@@ -137,18 +137,18 @@
 | ----- | ----- | ----- | -- | ---- |
 | 1 | **Gonçalves Jr Edivan** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/r1J6c2dxw) |
 | 2 | **Gonçalves Simão** | Neto Cristóvão | 0 | [link](https://gokibitz.com/kifu/rJZpFA_lP) |
-| 3 | Pereira Laercio | da Silva Thiago | 0 | |
+| 3 | **Pereira Laercio** | da Silva Thiago | 0 | |
 | 4 | **Pereira Francisco** | Carmona Pedro | 0 | [link](https://gokibitz.com/kifu/rJZpFA_lP) |
-| 5 | Pereira Pedro | Cruz Aaron | 0 | |
+| 5 | Pereira Pedro | **Cruz Aaron** | 0 | |
 | 6 | Fernandez José | **Malhado Rui** | 0 | [link](https://gokibitz.com/kifu/BycNbxLxD) |
 | 7 | **Jacobs Nick** | Menéndez Engra Alejandro | 0 | [link](https://gokibitz.com/kifu/S1VaJNGxw) |
 | 8 | Fernando Gonçalves | **Vieira João** | 0 | [link](https://gokibitz.com/kifu/r1ywrf5kD) |
 | 9 | Ribeiro Leandro | **da Veiga Miyagi** | 0 | [link](https://gokibitz.com/kifu/H12z591ev) |
-|10 | Peterlevitz Henrique | Pimenta Vasco | 0 | |
+|10 | Peterlevitz Henrique | **Pimenta Vasco** | 0 | |
 |11 | Maza Felipe | **Ferreira João** | 0 | [link](https://gokibitz.com/kifu/SJ4ZeJ8lP) |
 |12 | **Flores Mariano** | Martinez Lito | 0 | [link](https://online-go.com/game/25627884) |
 |13 | **Goday Víctor** | Nakashima Rafaela | 0 | [link](https://gokibitz.com/kifu/H1J0EJSxD?path=236) |
 |14 | **Teixeira João Carlos** | Gonzalez Alejandro | 0 | [link](https://gokibitz.com/kifu/ryCTYD1lw) |
 |15 | **Maltez Nuno** | Bruno Silva | 0 | [link](https://gokibitz.com/kifu/ByMnq7Ugv) |
-|16 | Pereira Silvério | Silva Lucas | 2 | |
-|17 | Fonte Luis | Couto Charles | 3 | [link](https://online-go.com/game/25403991) |
+|16 | **Pereira Silvério** | Silva Lucas | 2 | |
+|17 | **Fonte Luis** | Couto Charles | 3 | [link](https://online-go.com/game/25403991) |
