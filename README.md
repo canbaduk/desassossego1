@@ -166,7 +166,7 @@
 | 8 | **da Veiga Miyagi** | Jacobs Nick | 0 | [link](https://gokibitz.com/kifu/Sym9ufEZP) |
 | 9 | Ferreira João | Fernando Gonçalves | 0 | |
 |10 | Ribeiro Leandro | Flores Mariano | 0 | |
-|11 | Martinez Lito | Pimenta Vasco | 0 | |
+|11 | Martinez Lito | **Pimenta Vasco** | 0 | [link](https://gokibitz.com/kifu/rJK4ioEZw) |
 |12 | Maza Felipe | Goday Víctor | 0 | |
 |13 | Teixeira João Carlos | Nakashima Rafaela | 0 | |
 |14 | Gonzalez Alejandro | Maltez Nuno | 0 | |
