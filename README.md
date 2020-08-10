@@ -170,5 +170,5 @@
 |12 | Maza Felipe | **Goday Víctor** | 0 | [link](https://gokibitz.com/kifu/S1AFSgcbv) |
 |13 | Teixeira João Carlos | **Nakashima Rafaela** | 0 | [link](https://gokibitz.com/kifu/S151zk9bP) |
 |14 | Gonzalez Alejandro | **Maltez Nuno** | 0 | [link](https://gokibitz.com/kifu/rkI84jOZv) |
-|15 | Pereira Silvério | Fonte Luis | 1 | |
+|15 | Pereira Silvério | **Fonte Luis** | 1 | [link](https://online-go.com/api/v1/games/25969155) |
 |16 | **Bruno Silva** | Couto Charles | 4 | [link](https://gokibitz.com/kifu/HyaCC7fWv) |
