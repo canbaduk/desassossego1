@@ -171,4 +171,4 @@
 |13 | Teixeira João Carlos | Nakashima Rafaela | 0 | |
 |14 | Gonzalez Alejandro | Maltez Nuno | 0 | |
 |15 | Pereira Silvério | Fonte Luis | 1 | |
-|16 | Bruno Silva | Couto Charles | 4 | |
+|16 | **Bruno Silva** | Couto Charles | 4 | [link](https://gokibitz.com/kifu/HyaCC7fWv) |
