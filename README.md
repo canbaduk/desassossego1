@@ -152,3 +152,23 @@
 |15 | **Maltez Nuno** | Bruno Silva | 0 | [link](https://gokibitz.com/kifu/ByMnq7Ugv) |
 |16 | **Pereira Silvério** | Silva Lucas | 2 | |
 |17 | **Fonte Luis** | Couto Charles | 3 | [link](https://online-go.com/game/25403991) |
+
+## Round 6
+| Table | White | Black | Hd | Game |
+| ----- | ----- | ----- | -- | ---- |
+| 1 | Fraembs Sascha | Gonçalves Simão | 0 | |
+| 2 | Gonçalves Jr Edivan | Pereira Francisco | 0 | |
+| 3 | Neto Cristóvão | da Silva Thiago | 0 | |
+| 4 | Cruz Aaron | Pereira Laercio | 0 | |
+| 5 | Pereira Pedro | Carmona Pedro | 0 | |
+| 6 | Fernandez José | Menéndez Engra Alejandro | 0 | |
+| 7 | Malhado Rui | Vieira João | 0 | |
+| 8 | da Veiga Miyagi | Jacobs Nick | 0 | |
+| 9 | Ferreira João | Fernando Gonçalves | 0 | |
+|10 | Ribeiro Leandro | Flores Mariano | 0 | |
+|11 | Martinez Lito | Pimenta Vasco | 0 | |
+|12 | Maza Felipe | Goday Víctor | 0 | |
+|13 | Teixeira João Carlos | Nakashima Rafaela | 0 | |
+|14 | Gonzalez Alejandro | Maltez Nuno | 0 | |
+|15 | Pereira Silvério | Fonte Luis | 1 | |
+|16 | Bruno Silva | Couto Charles | 4 | |
