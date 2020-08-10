@@ -169,6 +169,6 @@
 |11 | Martinez Lito | **Pimenta Vasco** | 0 | [link](https://gokibitz.com/kifu/rJK4ioEZw) |
 |12 | Maza Felipe | Goday Víctor | 0 | |
 |13 | Teixeira João Carlos | Nakashima Rafaela | 0 | |
-|14 | Gonzalez Alejandro | Maltez Nuno | 0 | |
+|14 | Gonzalez Alejandro | **Maltez Nuno** | 0 | [link](https://gokibitz.com/kifu/rkI84jOZv) |
 |15 | Pereira Silvério | Fonte Luis | 1 | |
 |16 | **Bruno Silva** | Couto Charles | 4 | [link](https://gokibitz.com/kifu/HyaCC7fWv) |
