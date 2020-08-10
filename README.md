@@ -164,7 +164,7 @@
 | 6 | Fernandez José | **Menéndez Engra Alejandro** | 0 | [link](https://gokibitz.com/kifu/B1H9f1GbD) |
 | 7 | **Malhado Rui** | Vieira João | 0 | [link](https://gokibitz.com/kifu/SkQHaTB-P) |
 | 8 | **da Veiga Miyagi** | Jacobs Nick | 0 | [link](https://gokibitz.com/kifu/Sym9ufEZP) |
-| 9 | Ferreira João | Fernando Gonçalves | 0 | |
+| 9 | Ferreira João | **Fernando Gonçalves** | 0 | [link](https://gokibitz.com/kifu/SJik7E2bw) |
 |10 | Ribeiro Leandro | Flores Mariano | 0 | |
 |11 | Martinez Lito | **Pimenta Vasco** | 0 | [link](https://gokibitz.com/kifu/rJK4ioEZw) |
 |12 | Maza Felipe | **Goday Víctor** | 0 | [link](https://gokibitz.com/kifu/S1AFSgcbv) |
