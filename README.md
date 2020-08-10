@@ -167,7 +167,7 @@
 | 9 | Ferreira João | Fernando Gonçalves | 0 | |
 |10 | Ribeiro Leandro | Flores Mariano | 0 | |
 |11 | Martinez Lito | **Pimenta Vasco** | 0 | [link](https://gokibitz.com/kifu/rJK4ioEZw) |
-|12 | Maza Felipe | Goday Víctor | 0 | |
+|12 | Maza Felipe | **Goday Víctor** | 0 | [link](https://gokibitz.com/kifu/S1AFSgcbv) |
 |13 | Teixeira João Carlos | **Nakashima Rafaela** | 0 | [link](https://gokibitz.com/kifu/S151zk9bP) |
 |14 | Gonzalez Alejandro | **Maltez Nuno** | 0 | [link](https://gokibitz.com/kifu/rkI84jOZv) |
 |15 | Pereira Silvério | Fonte Luis | 1 | |
