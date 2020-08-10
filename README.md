@@ -161,7 +161,7 @@
 | 3 | Neto Cristóvão | da Silva Thiago | 0 | |
 | 4 | Cruz Aaron | Pereira Laercio | 0 | |
 | 5 | Pereira Pedro | Carmona Pedro | 0 | |
-| 6 | Fernandez José | Menéndez Engra Alejandro | 0 | |
+| 6 | Fernandez José | **Menéndez Engra Alejandro** | 0 | [link](https://gokibitz.com/kifu/B1H9f1GbD) |
 | 7 | Malhado Rui | Vieira João | 0 | |
 | 8 | da Veiga Miyagi | Jacobs Nick | 0 | |
 | 9 | Ferreira João | Fernando Gonçalves | 0 | |
