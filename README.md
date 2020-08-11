@@ -175,6 +175,7 @@
 
 ## Final ranking
 | Pos | Name |
+| ---- | --- |
 |  1 | Gonçalves Jr Edivan |
 |  2 | Gonçalves Simão |
 |  3 | Neto Cristóvão |
