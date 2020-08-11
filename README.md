@@ -172,3 +172,42 @@
 |14 | Gonzalez Alejandro | **Maltez Nuno** | 0 | [link](https://gokibitz.com/kifu/rkI84jOZv) |
 |15 | Pereira Silvério | **Fonte Luis** | 1 | [link](https://online-go.com/api/v1/games/25969155) |
 |16 | **Bruno Silva** | Couto Charles | 4 | [link](https://gokibitz.com/kifu/HyaCC7fWv) |
+
+## Final ranking
+| Pos | Name |
+|  1 | Gonçalves Jr Edivan |
+|  2 | Gonçalves Simão |
+|  3 | Neto Cristóvão |
+|  4 | Fraembs Sascha |
+|  5 | Pereira Francisco |
+|  6 | Cruz Aaron |
+|  7 | Pereira Laercio |
+|  8 | Rodriguez Gregori Rafa |
+|  9 | da Silva Thiago |
+| 10 | Pereira Pedro |
+| 11 | Carmona Pedro |
+| 12 | Malhado Rui |
+| 13 | Fernandez José |
+| 14 | Menéndez Engra Alejand |
+| 15 | Gonçalves Fernando |
+| 16 | Jacobs Nick |
+| 17 | Vieira João |
+| 18 | da Veiga Miyagi |
+| 19 | Ribeiro Leandro |
+| 20 | Pimenta Vasco |
+| 21 | Ferreira João |
+| 22 | Flores Mariano |
+| 23 | Goday Víctor |
+| 24 | Peterlevitz Henrique |
+| 25 | Nakashima Rafaela |
+| 26 | Maza Felipe |
+| 27 | Martinez Lito |
+| 28 | Teixeira João Carlos |
+| 29 | Pereira Silvério |
+| 30 | Bruno Silva |
+| 31 | Gonzalez Alejandro |
+| 32 | Maltez Nuno |
+| 33 | Fonte Luis |
+| 34 | Silva Lucas |
+| 35 | Mota Paulo |
+| 36 | Couto Charles |
